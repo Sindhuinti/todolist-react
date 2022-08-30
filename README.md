@@ -10,5 +10,3 @@
 👩🏻‍💻 **Sindhu inti**
 
 ## Give me a ⭐
-
-if
