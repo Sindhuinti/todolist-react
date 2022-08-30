@@ -11,4 +11,4 @@
 
 ## Give me a ⭐
 
-if you like the project
+if
